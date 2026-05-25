@@ -64,7 +64,7 @@ Worked within ticketing and incident management workflows in a high-availability
 Developed strong communication and technical troubleshooting skills supporting end users and business operations
 Gained exposure to enterprise infrastructure, operational security practices, and IT governance processes
 ## Projects
-ISOReady — ISO 27001 Application Methodology
+### ISOReady — ISO 27001 Application Methodology
 Designed a structured methodology project focused on implementing and applying ISO 27001 security principles
 Developed documentation and workflow concepts aligned to information security governance and risk management practices
 Focused on practical security implementation approaches for organizational environments
@@ -73,7 +73,7 @@ Windows Forensics & Registry Analysis
 Investigated Windows registry hives including NTUSER.DAT, SYSTEM, and SOFTWARE
 Analyzed persistence mechanisms, Run keys, and user activity artifacts
 Conducted Prefetch and event log analysis for incident reconstruction
-Active Directory Security Lab
+## Active Directory Security Lab
 Configured Windows domains, Group Policy Objects, and user privilege structures
 Investigated authentication mechanisms, UAC behavior, and Windows security controls
 Malware & System Analysis
@@ -82,7 +82,7 @@ Examined suspicious process activity and Windows internals behavior
 Network Security & Traffic Analysis
 Captured and analyzed network traffic using Wireshark
 Investigated suspicious traffic patterns and protocol behavior
-Leadership & Activities
-Capture The Flag (CTF) Participation
+## Leadership & Activities
+### Capture The Flag (CTF) Participation
 Participated in cybersecurity CTF competitions hosted through Southern Alberta Institute of Technology
-Student Lead for the March 2026 “Hack the Planet” CTF event
+### Student Lead for the March 2026 “Hack the Planet” CTF event
