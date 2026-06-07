@@ -31,7 +31,9 @@ Canadian Pacific Kansas City Railway
 
 - Developed cross-functional communication skills bridging end-user support and backend infrastructure operations
 
-* Following this role, pursued non-technical work during a career transition period before enrolling full-time in the Information Security diploma program at SAIT (2024). *
+
+
+*Following this role, pursued non-technical work during a career transition period before enrolling full-time in the Information Security diploma program at SAIT (2024).*
 
 ## Projects
 
