@@ -95,44 +95,21 @@ Developed cross-functional communication skills bridging end-user support and ba
 
 ### ISOReady — ISO 27001 Application Methodology
 
-Collaborated in the development of an ISO/IEC 27001 implementation methodology (ISOReady) to support organizational ISMS adoption and compliance.
-
-Researched and analyzed ISO 27001:2022 Annex A security controls and implementation requirements.
-
-Developed guidance and documentation for incident response, security monitoring, compliance validation, and business continuity controls.
-
-Evaluated controls related to logging, monitoring, backups, redundancy, and information security incident management.
-
-Assessed secure software development practices including SDLC, secure coding, security testing, and environment separation.
-
-Identified required audit evidence, compliance measures, and control validation methods.
-
-Mapped ISO 27001 controls to practical business processes and operational security practices.
-
-Contributed to risk management, governance, and continuous improvement recommendations aligned with ISO 27001 standards.
+Co-developed a structured ISO/IEC 27001 implementation methodology designed to guide organizations through ISMS adoption from the ground up. Analyzed all Annex A controls against real operational contexts, producing actionable documentation covering incident response, security monitoring, business continuity, and secure SDLC practices. Mapped controls to audit evidence requirements and compliance validation methods, resulting in a practical governance resource grounded in both technical security practices and business risk management.
 
 ### Active Directory Security Lab
 
-Co-developed a Python-based automation tool that executed PowerShell commands to streamline Active Directory administration tasks
+Collaborated on a Python-based automation tool that interfaced with PowerShell to manage the full Active Directory user lifecycle in a simulated enterprise environment. Built role-based group management logic that enforced least-privilege by auditing memberships against defined role baselines and flagging excess permissions. All tool actions were logged to a traceable audit trail — reflecting real IAM accountability practices around RBAC, access provisioning, and change documentation.
 
-Implemented full user lifecycle creation including account provisioning, attribute assignment, and role-based group membership assignment at onboarding
+### Security Labs & Hands-On Coursework
 
-Built a role-based group management module to enforce least-privilege principles by auditing group memberships and flagging excess permissions beyond defined role baselines
+Completed a broad range of applied security labs throughout the Information Security program, spanning exploit development, network simulation, malware analysis, forensic investigation, and controlled red team exercises. Lab environments rotated fresh machines each session, requiring independent reconnaissance and problem-solving without carry-over knowledge or hints.
 
-Designed an auditing system that logged all changes made through the tool, providing a traceable record of user creation, group modifications, and access changes
 
-Applied real-world IAM concepts including RBAC, least-privilege enforcement, and change auditing in a collaborative two-person development project
+Scripting and tooling work included Python and PowerShell automation projects, practical use of the offensive and forensic toolchain, and network traffic capture and analysis exercises using Wireshark and other protocol analysis tools.
 
-### Malware & System Analysis
-Used FLARE VM and SIFT Workstation for malware investigation and forensic workflows
 
-Examined suspicious process activity and Windows internals behavior
-
-### Network Security & Traffic Analysis
-
-Captured and analyzed network traffic using Wireshark
-
-Investigated suspicious traffic patterns and protocol behavior
+Notably solved a mid-term exploitation challenge through an unintended attack path — reaching the root flag without conventional privilege escalation, an approach that hadn't been anticipated by the instructor. Reflects a habit of thinking outside expected methodology when standard paths are exhausted.
 
 ## Leadership & Activities
 ### Capture The Flag (CTF) Participation
