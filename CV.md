@@ -10,25 +10,67 @@ Developed ISOReady, an ISO 27001 application methodology project focused on stru
 
 ## Technical Skills
 
-Security & Forensics
+### Security & Offensive Techniques
 
-Digital Forensics
+Penetration Testing & System Exploitation
 
-Windows Registry Analysis
+Malware Analysis & Reverse Engineering
 
-Incident Response
+Social Engineering Awareness
 
-Threat Detection
+Wireless Network Security
 
-Vulnerability Assessment
+Web & Application Security
 
-Network Traffic Analysis
+### Networking & Infrastructure
 
-Malware Analysis Fundamentals
+Secure Networking & Network Architecture
 
-Security Governance Concepts
+Offensive & Defensive Networking
 
-ISO 27001 Methodologies
+Wireless Security Protocols
+
+Computer Architecture & Operating Systems Internals
+
+IoT Systems & Security
+
+### Systems & Administration
+
+Windows System Administration
+
+Active Directory & Identity Management
+
+Operating Systems (Windows)
+
+Scripting & Automation (Python, PowerShell)
+
+### Forensics & Compliance
+
+Computer Forensics & Incident Investigation
+
+PCI Compliance & Encryption Standards
+
+Security Policies & Operations
+
+Legal Frameworks in Security (Canadian)
+
+ISO/IEC 27001:2022
+
+### Data & Analysis
+
+Statistical Analysis & Data Interpretation
+
+Financial Analysis & Reporting
+
+Risk Assessment & Business Impact Analysis
+
+### Soft/Professional
+
+Technical Communication & Reporting
+
+Professional Presentation Skills
+
+Military & Strategic Studies Context
 
 ## Security Tools
 
