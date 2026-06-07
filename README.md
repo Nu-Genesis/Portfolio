@@ -9,11 +9,11 @@ What I Work On
 
 This repo is organized around the areas I'm actively building in:
 
-`/cv` — My current résumé/CV
+`/CV` — My current résumé/CV
 
-`/labs` — Writeups and summaries of hands-on lab work (descriptions only — academic integrity applies to the source material)
+`/Labs` — Writeups and summaries of hands-on lab work (descriptions only — academic integrity applies to the source material)
 
-`/projects` — Standalone projects including tools, scripts, and coursework deliverables I can share
+`/Projects` — Standalone projects including tools, scripts, and coursework deliverables I can share
 
 ---
 
