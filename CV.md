@@ -72,47 +72,143 @@ Professional Presentation Skills
 
 Military & Strategic Studies Context
 
-## Security Tools
-
-Wireshark
-
-Burp Suite
+## Tools & Technologies
+### Penetration Testing & Exploitation
 
 Metasploit
 
-Procmon
-
-Sysinternals Suite
+Burp Suite
 
 Nmap
 
+
+Netcat
+
+ExploitDB / SearchSploit
+
+Hydra
+
+John the Ripper
+
+Hashcat
+
+### Malware Analysis & Forensics
+
+Wireshark
+
 Autopsy
+
+FTK (Forensic Toolkit)
 
 Volatility
 
-## Operating Systems & Platforms
+YARA
 
-Windows
+PEStudio
 
-Linux
+Ghidra
+
+IDA Free
+
+Binary Ninja
+
+Binwalk
+
+Strings
+
+### Networking & Traffic Analysis
+
+Wireshark
+
+Nmap
+
+Nessus
+
+Aircrack-ng
+
+Kismet
+
+tcpdump
+
+### Operating Systems & Virtualization
 
 Kali Linux
 
 Parrot OS
 
+Ubuntu / Debian Linux
+
+Windows Server
+
+VMware / VirtualBox
+
 FLARE VM
 
 SIFT Workstation
 
-## Programming & Scripting
+### Scripting & Automation
 
 Python
 
-Powershell
+PowerShell
 
-C
+Bash / Shell Scripting
 
-C++
+C/C++
+
+### Active Directory & Identity
+
+Microsoft Active Directory
+
+Group Policy Management (GPO)
+
+Azure AD (Entra ID)
+
+### Security Operations & Monitoring
+
+Splunk
+
+Microsoft Sentinel
+
+Sysmon
+
+Event Viewer
+
+### Compliance & Encryption
+
+BitLocker
+
+OpenSSL
+
+GPG / PGP
+
+### IoT & Wireless
+
+Aircrack-ng
+
+Kismet
+
+Wireshark
+
+Flipper Zero
+
+HackRF / SDR Tools
+
+### Ticketing & ITSM
+
+ServiceNow
+
+ServiceManage9
+
+Control-M
+
+### Development & Collaboration
+
+Git / GitHub
+
+VS Code
+
+Visual Studio
 
 ## Education
 
