@@ -154,7 +154,6 @@ PowerShell
 
 Bash / Shell Scripting
 
-
 ### Active Directory & Identity
 
 Microsoft Active Directory
@@ -199,7 +198,11 @@ ServiceNow
 
 ServiceManage9
 
+### Monitoring
+
 Control-M
+
+SIEM
 
 ### Languages & Low-Level Programming
 
