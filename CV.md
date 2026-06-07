@@ -61,7 +61,7 @@ Security Policies and Operations (ITSC 308)
 
 Capstone Project (PROJ 309)
 
-### Bussiness Administration Finance Diploma
+### Business Administration Finance Diploma
 #### Southern Alberta Institute of Technology
 
 2015 – 2017
