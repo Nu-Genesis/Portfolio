@@ -4,9 +4,8 @@ Cybersecurity Graduate | DFIR Enthusiast | IT Support Specialist
 ## LinkedIn: https://ca.linkedin.com/in/brandon-stewart-389370133
 ## Email: bchanstew@gmail.com
 ## Professional Summary
-Recent Information Security graduate with prior enterprise IT support experience supporting large-scale business operations within the rail transportation industry. Skilled in cybersecurity operations, Windows/Linux administration, digital forensics, network analysis, and security tooling. Hands-on experience with SIEM concepts, Windows internals, registry analysis, vulnerability assessment, and incident investigation through academic projects, labs, and capture-the-flag events.
 
-Developed ISOReady, an ISO 27001 application methodology project focused on structured implementation and security governance processes. Passionate about SOC operations, DFIR, threat detection, and enterprise security practices.
+Information Security graduate with a background in enterprise IT operations and business administration, bringing a well-rounded perspective to security work. Five years supporting a major rail transportation organization at the service operations level — managing incidents, administering Active Directory, and operating in 24/7 high-availability environments — provides a practical foundation that most early-career candidates lack. Focused on DFIR and SOC operations, with hands-on experience in digital forensics, malware analysis, SIEM concepts, and incident investigation. The combination of technical security training, real enterprise exposure, and a business-level understanding of risk and compliance makes for a security professional who can operate effectively across both technical and organizational contexts.
 
 ## Education
 
