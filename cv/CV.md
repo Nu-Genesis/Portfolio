@@ -31,6 +31,8 @@ Operated within ITIL-aligned ticketing and incident management workflows, mainta
 
 Developed cross-functional communication skills bridging end-user support and backend infrastructure operations
 
+Following this role, pursued non-technical work during a career transition period before enrolling full-time in the Information Security diploma program at SAIT (2024).
+
 ## Projects
 
 ### ISOReady — ISO 27001 Application Methodology
