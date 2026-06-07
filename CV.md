@@ -57,7 +57,9 @@ Founding member of SAIT Trojans CTF Team
 
 Participated in cybersecurity CTF competitions hosted through Southern Alberta Institute of Technology
 
-### Student Lead for the March 2026 “Hack the Planet” CTF event
+Placed in top 3 teams at SAIT's Squidgame CTF Winter 2025 and Alice in Wonderland CTF Fall 2025
+
+### Student Lead for the Winter 2026 “Hack the Planet” SAIT CTF event 
 Served as student lead for a school-run Capture the Flag competition, coordinating volunteer teams across multiple workstreams to deliver the event on schedule
 
 Facilitated weekly team meetings to track progress, align priorities, and ensure deadlines were met across all contributing teams
