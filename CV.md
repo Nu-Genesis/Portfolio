@@ -199,7 +199,6 @@ Burp Suite
 
 Nmap
 
-
 Netcat
 
 ExploitDB / SearchSploit
