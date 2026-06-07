@@ -112,7 +112,7 @@ Mapped ISO 27001 controls to practical business processes and operational securi
 
 Contributed to risk management, governance, and continuous improvement recommendations aligned with ISO 27001 standards.
 
-## Active Directory Security Lab
+### Active Directory Security Lab
 
 Co-developed a Python-based automation tool that executed PowerShell commands to streamline Active Directory administration tasks
 
@@ -124,12 +124,12 @@ Designed an auditing system that logged all changes made through the tool, provi
 
 Applied real-world IAM concepts including RBAC, least-privilege enforcement, and change auditing in a collaborative two-person development project
 
-## Malware & System Analysis
+### Malware & System Analysis
 Used FLARE VM and SIFT Workstation for malware investigation and forensic workflows
 
 Examined suspicious process activity and Windows internals behavior
 
-## Network Security & Traffic Analysis
+### Network Security & Traffic Analysis
 
 Captured and analyzed network traffic using Wireshark
 
