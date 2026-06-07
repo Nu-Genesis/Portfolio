@@ -1,6 +1,6 @@
 Hi, I'm Brandon Stewart
 
-Information Security professional based in Calgary, AB — Recently graduated with a diploma at SAIT and transitioning from five years in enterprise IT at Canadian Pacific Kansas City Railway into a focused career in DFIR and SOC operations.
+Information Security professional based in Calgary, AB — Recently graduated with a diploma at SAIT and transitioning from five years in enterprise IT at Canadian Pacific Kansas City Railway into a focused career in DFIR, GRC and SOC operations.
 
 My background is a bit unusual for early-career security: I spent years in a 24/7 high-availability Sevice Operations Center -adjacent environment before formally studying Information Technology — managing major incidents, administering Active Directory, and keeping rail operations infrastructure running. That operational grounding shapes how I approach security work: I think about risk in terms of real business impact, not just CVE scores.
 
