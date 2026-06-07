@@ -13,25 +13,25 @@ Canadian Pacific Kansas City Railway
 
 2017 – 2022
 
-First point of contact for end user via phone and chat
+- First point of contact for end user via phone and chat
 
-Handled full ticket lifecycle: opening, closing, and escalating as appropriate
+- Handled full ticket lifecycle: opening, closing, and escalating as appropriate
 
-Delivered enterprise-level technical support across a large transportation organization, handling T1/T2 incidents from triage through resolution
+- Delivered enterprise-level technical support across a large transportation organization, handling T1/T2 incidents from triage through resolution
 
-Monitored server health and infrastructure availability, escalating and managing major incidents in a 24/7 high-availability operational environment
+- Monitored server health and infrastructure availability, escalating and managing major incidents in a 24/7 high-availability operational environment
 
-Oversaw batch job scheduling and execution monitoring through Control-M, identifying failures and coordinating timely remediation
+- Oversaw batch job scheduling and execution monitoring through Control-M, identifying failures and coordinating timely remediation
 
-Troubleshot Windows systems, user access issues, software incidents, and account-related problems across a large distributed environment
+- Troubleshot Windows systems, user access issues, software incidents, and account-related problems across a large distributed environment
 
-Administered Active Directory user accounts, access provisioning, and account lifecycle management
+- Administered Active Directory user accounts, access provisioning, and account lifecycle management
 
-Operated within ITIL-aligned ticketing and incident management workflows, maintaining documentation and SLA adherence
+- Operated within ITIL-aligned ticketing and incident management workflows, maintaining documentation and SLA adherence
 
-Developed cross-functional communication skills bridging end-user support and backend infrastructure operations
+- Developed cross-functional communication skills bridging end-user support and backend infrastructure operations
 
-Following this role, pursued non-technical work during a career transition period before enrolling full-time in the Information Security diploma program at SAIT (2024).
+* Following this role, pursued non-technical work during a career transition period before enrolling full-time in the Information Security diploma program at SAIT (2024). *
 
 ## Projects
 
@@ -55,18 +55,18 @@ Notably solved a mid-term exploitation challenge through an unintended attack pa
 
 ## Leadership & Activities
 ### Capture The Flag (CTF) Participation
-Founding member of SAIT Trojans CTF Team
+- Founding member of SAIT Trojans CTF Team
 
-Participated in cybersecurity CTF competitions hosted through Southern Alberta Institute of Technology
+- Participated in cybersecurity CTF competitions hosted through Southern Alberta Institute of Technology
 
-Placed in top 3 teams at SAIT's Squidgame CTF Winter 2025 and Alice in Wonderland CTF Fall 2025
+- Placed in top 3 teams at SAIT's Squidgame CTF Winter 2025 and Alice in Wonderland CTF Fall 2025
 
 ### Student Lead for the Winter 2026 “Hack the Planet” SAIT CTF event 
-Served as student lead for a school-run Capture the Flag competition, coordinating volunteer teams across multiple workstreams to deliver the event on schedule
+- Served as student lead for a school-run Capture the Flag competition, coordinating volunteer teams across multiple workstreams to deliver the event on schedule
 
-Facilitated weekly team meetings to track progress, align priorities, and ensure deadlines were met across all contributing teams
+- Facilitated weekly team meetings to track progress, align priorities, and ensure deadlines were met across all contributing teams
 
-Acted as primary liaison between team leads, bridging communication and resolving blockers to keep the event on track
+- Acted as primary liaison between team leads, bridging communication and resolving blockers to keep the event on track
 
 ## Education
 
@@ -79,47 +79,47 @@ Two-year diploma program covering offensive and defensive security, forensics, m
 
 ##### Year 1
 
-Professional Communication and Presentation Skills (COMM 256)
+- Professional Communication and Presentation Skills (COMM 256)
 
-Secure Networking Fundamentals (ITSC 200)
+- Secure Networking Fundamentals (ITSC 200)
 
-Military and Strategic Studies (ITSC 201)
+- Military and Strategic Studies (ITSC 201)
 
-Programming Essentials (ITSC 202)
+- Programming Essentials (ITSC 202)
 
-Statistics for Engineering and Technology I (STAT 245)
+- Statistics for Engineering and Technology I (STAT 245)
 
-Computer Architecture (ITSC 204)
+- Computer Architecture (ITSC 204)
 
-Operating Systems Internals (ITSC 205)
+- Operating Systems Internals (ITSC 205)
 
-Offensive and Defensive Networking (ITSC 206)
+- Offensive and Defensive Networking (ITSC 206)
 
-Security Practice and the Canadian Legal System (LAWG 200)
+- Security Practice and the Canadian Legal System (LAWG 200)
 
-Application Security (ITSC 302)
+- Application Security (ITSC 302)
 
 ##### Year 2
 
-Scripting for Tool Construction (ITSC 203)
+- Scripting for Tool Construction (ITSC 203)
 
-Wireless Security (ITSC 301)
+- Wireless Security (ITSC 301)
 
-Computer System Exploitation (ITSC 304)
+- Computer System Exploitation (ITSC 304)
 
-PCI Compliance and Encryption (ITSC 307)
+- PCI Compliance and Encryption (ITSC 307)
 
-Social Engineering (ITSC 309)
+- Social Engineering (ITSC 309)
 
-Malware Analysis (ITSC 303)
+- Malware Analysis (ITSC 303)
 
-Internet of Things Systems (ITSC 305)
+- Internet of Things Systems (ITSC 305)
 
-Computer Forensics (ITSC 306)
+- Computer Forensics (ITSC 306)
 
-Security Policies and Operations (ITSC 308)
+- Security Policies and Operations (ITSC 308)
 
-Capstone Project (PROJ 309)
+- Capstone Project (PROJ 309)
 
 ### Business Administration Finance Diploma
 #### Southern Alberta Institute of Technology
@@ -132,215 +132,215 @@ Two year diploma where I developed competencies in financial reporting, budgetin
 
 ### Security & Offensive Techniques
 
-Penetration Testing & System Exploitation
+- Penetration Testing & System Exploitation
 
-Malware Analysis & Reverse Engineering
+- Malware Analysis & Reverse Engineering
 
-Social Engineering Awareness
+- Social Engineering Awareness
 
-Wireless Network Security
+- Wireless Network Security
 
-Web & Application Security
+- Web & Application Security
 
 ### Networking & Infrastructure
 
-Secure Networking & Network Architecture
+- Secure Networking & Network Architecture
 
-Offensive & Defensive Networking
+- Offensive & Defensive Networking
 
-Wireless Security Protocols
+- Wireless Security Protocols
 
-Computer Architecture & Operating Systems Internals
+- Computer Architecture & Operating Systems Internals
 
-IoT Systems & Security
+- IoT Systems & Security
 
 ### Systems & Administration
 
-Windows System Administration
+- Windows System Administration
 
-Active Directory & Identity Management
+- Active Directory & Identity Management
 
-Operating Systems (Windows)
+- Operating Systems (Windows)
 
-Scripting & Automation (Python, PowerShell)
+- Scripting & Automation (Python, PowerShell)
 
 ### Forensics & Compliance
 
-Computer Forensics & Incident Investigation
+- Computer Forensics & Incident Investigation
 
-PCI Compliance & Encryption Standards
+- PCI Compliance & Encryption Standards
 
-Security Policies & Operations
+- Security Policies & Operations
 
-Legal Frameworks in Security (Canadian)
+- Legal Frameworks in Security (Canadian)
 
-ISO/IEC 27001:2022
+- ISO/IEC 27001:2022
 
 ### Data & Analysis
 
-Statistical Analysis & Data Interpretation
+- Statistical Analysis & Data Interpretation
 
-Financial Analysis & Reporting
+- Financial Analysis & Reporting
 
-Risk Assessment & Business Impact Analysis
+- Risk Assessment & Business Impact Analysis
 
 ### Soft/Professional
 
-Technical Communication & Reporting
+- Technical Communication & Reporting
 
-Professional Presentation Skills
+- Professional Presentation Skills
 
-Military & Strategic Studies Context
+- Military & Strategic Studies Context
 
 ## Tools & Technologies
 ### Penetration Testing & Exploitation
 
-Metasploit
+- Metasploit
 
-Burp Suite
+- Burp Suite
 
-Nmap
+- Nmap
 
-Netcat
+- Netcat
 
-ExploitDB / SearchSploit
+- ExploitDB / SearchSploit
 
-Hydra
+- Hydra
 
-John the Ripper
+- John the Ripper
 
-Hashcat
+- Hashcat
 
 ### Malware Analysis & Forensics
 
-Wireshark
+- Wireshark
 
-Autopsy
+- Autopsy
 
-FTK (Forensic Toolkit)
+- FTK (Forensic Toolkit)
 
-Volatility
+- Volatility
 
-YARA
+- YARA
 
-PEStudio
+- PEStudio
 
-Ghidra
+- Ghidra
 
-IDA Free
+- IDA Free
 
-Binary Ninja
+- Binary Ninja
 
-Binwalk
+- Binwalk
 
-Strings
+- Strings
 
 ### Networking & Traffic Analysis
 
-Wireshark
+- Wireshark
 
-Nmap
+- Nmap
 
-Nessus
+- Nessus
 
-Aircrack-ng
+- Aircrack-ng
 
-Kismet
+- Kismet
 
-tcpdump
+- tcpdump
 
 ### Operating Systems & Virtualization
 
-Kali Linux
+- Kali Linux
 
-Parrot OS
+- Parrot OS
 
-Ubuntu / Debian Linux
+- Ubuntu / Debian Linux
 
-Windows Server
+- Windows Server
 
-VMware / VirtualBox
+- VMware / VirtualBox
 
-FLARE VM
+- FLARE VM
 
-SIFT Workstation
+- SIFT Workstation
 
 ### Scripting & Automation
 
-Python
+- Python
 
-PowerShell
+- PowerShell
 
-Bash / Shell Scripting
+- Bash / Shell Scripting
 
 ### Active Directory & Identity
 
-Microsoft Active Directory
+- Microsoft Active Directory
 
-Group Policy Management (GPO)
+- Group Policy Management (GPO)
 
-Azure AD (Entra ID)
+- Azure AD (Entra ID)
 
 ### Security Operations & Monitoring
 
-Splunk
+- Splunk
 
-Microsoft Sentinel
+- Microsoft Sentinel
 
-Sysmon
+- Sysmon
 
-Event Viewer
+- Event Viewer
 
 ### Compliance & Encryption
 
-BitLocker
+- BitLocker
 
-OpenSSL
+- OpenSSL
 
-GPG / PGP
+- GPG / PGP
 
 ### IoT & Wireless
 
-Aircrack-ng
+- Aircrack-ng
 
-Kismet
+- Kismet
 
-Wireshark
+- Wireshark
 
-Flipper Zero
+- Flipper Zero
 
-HackRF / SDR Tools
+- HackRF / SDR Tools
 
 ### Ticketing & ITSM
 
-ServiceNow
+- ServiceNow
 
-ServiceManage9
+- ServiceManage9
 
 ### Monitoring
 
-Control-M
+- Control-M
 
-SIEM
+- SIEM
 
 ### Languages & Low-Level Programming
 
-C
+- C
 
-C++
+- C++
 
-Assembly (x86/x64)
+- Assembly (x86/x64)
 
-Python
+- Python
 
-PowerShell
+- PowerShell
 
-Bash / Shell Scripting
+- Bash / Shell Scripting
 
 ### Development & Collaboration
 
-Git / GitHub
+- Git / GitHub
 
-VS Code
+- VS Code
 
-Visual Studio
+- Visual Studio
