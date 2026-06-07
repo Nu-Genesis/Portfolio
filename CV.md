@@ -6,83 +6,205 @@ Cybersecurity Graduate | SOC Analyst | DFIR Enthusiast | IT Support Specialist
 ## Email: bchanstew@gmail.com
 ## Professional Summary
 Recent Information Security graduate with prior enterprise IT support experience supporting large-scale business operations within the rail transportation industry. Skilled in cybersecurity operations, Windows/Linux administration, digital forensics, network analysis, and security tooling. Hands-on experience with SIEM concepts, Windows internals, registry analysis, vulnerability assessment, and incident investigation through academic projects, labs, and capture-the-flag events.
+
 Developed ISOReady, an ISO 27001 application methodology project focused on structured implementation and security governance processes. Passionate about SOC operations, DFIR, threat detection, and enterprise security practices.
+
 ## Technical Skills
+
 Security & Forensics
+
 Digital Forensics
+
 Windows Registry Analysis
+
 Incident Response
+
 Threat Detection
+
 Vulnerability Assessment
+
 Network Traffic Analysis
+
 Malware Analysis Fundamentals
+
 Security Governance Concepts
+
 ISO 27001 Methodologies
+
 ## Security Tools
+
 Wireshark
+
 Burp Suite
+
 Metasploit
+
 Procmon
+
 Sysinternals Suite
+
 Nmap
+
 Autopsy
+
 Volatility
+
 ## Operating Systems & Platforms
+
 Windows
+
 Linux
+
 Kali Linux
+
 Parrot OS
+
 FLARE VM
+
 SIFT Workstation
+
 ## Programming & Scripting
+
 Python
+
+Powershell
+
 C
+
 C++
+
 ## Education
+
 ### Southern Alberta Institute of Technology
-Information Security Diploma
+#### Information Security Diploma
+
 2024 – 2026
-Relevant Coursework:
-Digital Forensics
-Ethical Hacking
-Windows Internals
-Malware Analysis
-Network Security
-Incident Response
-Active Directory Security
-Southern Alberta Institute of Technology
-### Bussiness Administration Finance Diploma
+
+##### Year 1
+
+Professional Communication and Presentation Skills (COMM 256)
+
+Secure Networking Fundamentals (ITSC 200)
+
+Military and Strategic Studies (ITSC 201)
+
+Programming Essentials (ITSC 202)
+
+Statistics for Engineering and Technology I (STAT 245)
+
+Computer Architecture (ITSC 204)
+
+Operating Systems Internals (ITSC 205)
+
+Offensive and Defensive Networking (ITSC 206)
+
+Security Practice and the Canadian Legal System (LAWG 200)
+
+Application Security (ITSC 302)
+
+##### Year 2
+
+Scripting for Tool Construction (ITSC 203)
+
+Wireless Security (ITSC 301)
+
+Computer System Exploitation (ITSC 304)
+
+PCI Compliance and Encryption (ITSC 307)
+
+Social Engineering (ITSC 309)
+
+Malware Analysis (ITSC 303)
+
+Internet of Things Systems (ITSC 305)
+
+Computer Forensics (ITSC 306)
+
+Security Policies and Operations (ITSC 308)
+
+Capstone Project (PROJ 309)
+
+### Southern Alberta Institute of Technology
+#### Bussiness Administration Finance Diploma
+
 2015 – 2017
+
+Developed competencies in financial reporting, budgeting, and business operations. Enhances cybersecurity work with a business-level understanding of risk assessment, compliance frameworks, and the financial impact of security decisions.
+
 ## Professional Experience
 ### Service Desk Analyst / Service Operations Centre
-Canadian Pacific Kansas City
+Canadian Pacific Kansas City Railway
+
 2017 – 2022
-Provided enterprise technical support for users across a large transportation organization
-Troubleshot Windows systems, user access issues, software incidents, and account-related problems
-Assisted with Active Directory administration and user account support
-Worked within ticketing and incident management workflows in a high-availability operational environment
-Developed strong communication and technical troubleshooting skills supporting end users and business operations
-Gained exposure to enterprise infrastructure, operational security practices, and IT governance processes
+
+Opened, closed and escalated T3 tickets brought in from user level complaints via phone, and chat support lines
+
+Delivered enterprise-level technical support across a large transportation organization, handling T1/T2 incidents from triage through resolution
+
+Monitored server health and infrastructure availability, escalating and managing major incidents in a 24/7 high-availability operational environment
+
+Oversaw batch job scheduling and execution monitoring through Control-M, identifying failures and coordinating timely remediation
+
+Troubleshot Windows systems, user access issues, software incidents, and account-related problems across a large distributed environment
+
+Administered Active Directory user accounts, access provisioning, and account lifecycle management
+
+Operated within ITIL-aligned ticketing and incident management workflows, maintaining documentation and SLA adherence
+
+Developed cross-functional communication skills bridging end-user support and backend infrastructure operations
+
 ## Projects
+
 ### ISOReady — ISO 27001 Application Methodology
-Designed a structured methodology project focused on implementing and applying ISO 27001 security principles
-Developed documentation and workflow concepts aligned to information security governance and risk management practices
-Focused on practical security implementation approaches for organizational environments
-Explored compliance, policy structure, risk assessment, and security management concepts
-Windows Forensics & Registry Analysis
-Investigated Windows registry hives including NTUSER.DAT, SYSTEM, and SOFTWARE
-Analyzed persistence mechanisms, Run keys, and user activity artifacts
-Conducted Prefetch and event log analysis for incident reconstruction
+
+Collaborated in the development of an ISO/IEC 27001 implementation methodology (ISOReady) to support organizational ISMS adoption and compliance.
+
+Researched and analyzed ISO 27001:2022 Annex A security controls and implementation requirements.
+
+Developed guidance and documentation for incident response, security monitoring, compliance validation, and business continuity controls.
+
+Evaluated controls related to logging, monitoring, backups, redundancy, and information security incident management.
+
+Assessed secure software development practices including SDLC, secure coding, security testing, and environment separation.
+
+Identified required audit evidence, compliance measures, and control validation methods.
+
+Mapped ISO 27001 controls to practical business processes and operational security practices.
+
+Contributed to risk management, governance, and continuous improvement recommendations aligned with ISO 27001 standards.
+
 ## Active Directory Security Lab
-Configured Windows domains, Group Policy Objects, and user privilege structures
-Investigated authentication mechanisms, UAC behavior, and Windows security controls
-Malware & System Analysis
+
+Co-developed a Python-based automation tool that executed PowerShell commands to streamline Active Directory administration tasks
+
+Implemented full user lifecycle creation including account provisioning, attribute assignment, and role-based group membership assignment at onboarding
+
+Built a role-based group management module to enforce least-privilege principles by auditing group memberships and flagging excess permissions beyond defined role baselines
+
+Designed an auditing system that logged all changes made through the tool, providing a traceable record of user creation, group modifications, and access changes
+
+Applied real-world IAM concepts including RBAC, least-privilege enforcement, and change auditing in a collaborative two-person development project
+
+## Malware & System Analysis
 Used FLARE VM and SIFT Workstation for malware investigation and forensic workflows
+
 Examined suspicious process activity and Windows internals behavior
-Network Security & Traffic Analysis
+
+## Network Security & Traffic Analysis
+
 Captured and analyzed network traffic using Wireshark
+
 Investigated suspicious traffic patterns and protocol behavior
+
 ## Leadership & Activities
 ### Capture The Flag (CTF) Participation
+Founding member of SAIT Trojans CTF Team
+
 Participated in cybersecurity CTF competitions hosted through Southern Alberta Institute of Technology
+
 ### Student Lead for the March 2026 “Hack the Planet” CTF event
+Served as student lead for a school-run Capture the Flag competition, coordinating volunteer teams across multiple workstreams to deliver the event on schedule
+
+Facilitated weekly team meetings to track progress, align priorities, and ensure deadlines were met across all contributing teams
+
+Acted as primary liaison between team leads, bridging communication and resolving blockers to keep the event on track
