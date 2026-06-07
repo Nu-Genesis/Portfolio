@@ -80,6 +80,8 @@ C++
 
 2024 – 2026
 
+Two-year diploma program covering offensive and defensive security, forensics, malware analysis, and secure networking with hands-on technical coursework.
+
 ##### Year 1
 
 Professional Communication and Presentation Skills (COMM 256)
