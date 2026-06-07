@@ -154,7 +154,6 @@ PowerShell
 
 Bash / Shell Scripting
 
-C/C++
 
 ### Active Directory & Identity
 
@@ -201,6 +200,20 @@ ServiceNow
 ServiceManage9
 
 Control-M
+
+### Languages & Low-Level Programming
+
+C
+
+C++
+
+Assembly (x86/x64)
+
+Python
+
+PowerShell
+
+Bash / Shell Scripting
 
 ### Development & Collaboration
 
@@ -268,7 +281,7 @@ Capstone Project (PROJ 309)
 
 2015 – 2017
 
-Developed competencies in financial reporting, budgeting, and business operations. Enhances cybersecurity work with a business-level understanding of risk assessment, compliance frameworks, and the financial impact of security decisions.
+Two year diploma where I developed competencies in financial reporting, budgeting, and business operations. Enhances cybersecurity work with a business-level understanding of risk assessment, compliance frameworks, and the financial impact of security decisions.
 
 ## Professional Experience
 ### Service Desk Analyst / Service Operations Centre
@@ -276,7 +289,9 @@ Canadian Pacific Kansas City Railway
 
 2017 – 2022
 
-Opened, closed and escalated T3 tickets brought in from user level complaints via phone, and chat support lines
+First point of contact for end user via phone and chat
+
+Handled full ticket lifecycle: opening, closing, and escalating as appropriate
 
 Delivered enterprise-level technical support across a large transportation organization, handling T1/T2 incidents from triage through resolution
 
