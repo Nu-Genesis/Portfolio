@@ -64,11 +64,11 @@ Student Lead — Hack the Planet CTF (Winter 2026): coordinated volunteer teams 
 Background
 	
 
-Current	Information Security Diploma — SAIT (2024–2026)
+Recent Graduate Information Security Diploma — SAIT (2024–2026)
 
-Prior	Business Administration (Finance) Diploma — SAIT (2015–2017)
+Prior Business Administration (Finance) Diploma — SAIT (2015–2017)
 
-Experience	Service Desk Analyst / SOC — CPKC Railway (2017–2022)
+Experience Service Desk Analyst / SOC — CPKC Railway (2017–2022)
 
 The finance background isn't just a footnote — understanding how organizations think about cost, risk, and compliance changes how I frame security recommendations and write policies.
 
