@@ -2,7 +2,7 @@
 **Brandon Stewart**
 
 
-**All uncensored IP Addresses and inforamtion left in this document are from internal network test that use machines that have since been decomisioned. Please do not attempt to attack these IP Addresses**
+All uncensored IP Addresses and inforamtion left in this document are from internal network test that use machines that have since been decomisioned. Please do not attempt to attack these IP Addresses.
 
 ---
 
