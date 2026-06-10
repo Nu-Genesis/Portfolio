@@ -5,13 +5,13 @@ Cybersecurity Graduate | DFIR Enthusiast | IT Support Specialist
 ## Email: bchanstew@gmail.com
 ## Professional Summary
 
-Information Security graduate with a background in enterprise IT operations and business administration, bringing a well-rounded perspective to security work. Five years supporting a major rail transportation organization at the service operations level — managing incidents, administering Active Directory, and operating in 24/7 high-availability environments — provides a practical foundation that most early-career candidates lack. Focused on DFIR and SOC operations, with hands-on experience in digital forensics, malware analysis, SIEM concepts, and incident investigation. The combination of technical security training, real enterprise exposure, and a business-level understanding of risk and compliance makes for a security professional who can operate effectively across both technical and organizational contexts.
+Information Security graduate with a background in enterprise IT operations and business administration, bringing a well-rounded perspective to security work. Five years supporting a major rail transportation organization at the service operations level - managing incidents, administering Active Directory, and operating in 24/7 high-availability environments - provides a practical foundation that most early-career candidates lack. Focused on DFIR and SOC operations, with hands-on experience in digital forensics, malware analysis, SIEM concepts, and incident investigation. The combination of technical security training, real enterprise exposure, and a business-level understanding of risk and compliance makes for a security professional who can operate effectively across both technical and organizational contexts.
 
 ## Professional Experience
 ### Service Desk Analyst / Service Operations Centre
 Canadian Pacific Kansas City Railway
 
-2017 – 2022
+2017 - 2022
 
 - First point of contact for end user via phone and chat
 
@@ -37,13 +37,13 @@ Canadian Pacific Kansas City Railway
 
 ## Projects
 
-### ISOReady — ISO 27001 Application Methodology
+### ISOReady - ISO 27001 Application Methodology
 
 Co-developed a structured ISO/IEC 27001 implementation methodology designed to guide organizations through ISMS adoption from the ground up. Analyzed all Annex A controls against real operational contexts, producing actionable documentation covering incident response, security monitoring, business continuity, and secure SDLC practices. Mapped controls to audit evidence requirements and compliance validation methods, resulting in a practical governance resource grounded in both technical security practices and business risk management.
 
 ### Active Directory Security Lab
 
-Collaborated on a Python-based automation tool that interfaced with PowerShell to manage the full Active Directory user lifecycle in a simulated enterprise environment. Built role-based group management logic that enforced least-privilege by auditing memberships against defined role baselines and flagging excess permissions. All tool actions were logged to a traceable audit trail — reflecting real IAM accountability practices around RBAC, access provisioning, and change documentation.
+Collaborated on a Python-based automation tool that interfaced with PowerShell to manage the full Active Directory user lifecycle in a simulated enterprise environment. Built role-based group management logic that enforced least-privilege by auditing memberships against defined role baselines and flagging excess permissions. All tool actions were logged to a traceable audit trail - reflecting real IAM accountability practices around RBAC, access provisioning, and change documentation.
 
 ### Security Labs & Hands-On Coursework
 
@@ -53,7 +53,7 @@ Completed a broad range of applied security labs throughout the Information Secu
 Scripting and tooling work included Python and PowerShell automation projects, practical use of the offensive and forensic toolchain, and network traffic capture and analysis exercises using Wireshark and other protocol analysis tools.
 
 
-Notably solved a mid-term exploitation challenge through an unintended attack path — reaching the root flag without conventional privilege escalation, an approach that hadn't been anticipated by the instructor. Reflects a habit of thinking outside expected methodology when standard paths are exhausted.
+Notably solved a mid-term exploitation challenge through an unintended attack path - reaching the root flag without conventional privilege escalation, an approach that hadn't been anticipated by the instructor. Reflects a habit of thinking outside expected methodology when standard paths are exhausted.
 
 ## Leadership & Activities
 ### Capture The Flag (CTF) Participation
@@ -75,7 +75,7 @@ Notably solved a mid-term exploitation challenge through an unintended attack pa
 ### Information Security Diploma
 #### Southern Alberta Institute of Technology
 
-2024 – 2026
+2024 - 2026
 
 Two-year diploma program covering offensive and defensive security, forensics, malware analysis, and secure networking with hands-on technical coursework.
 
@@ -126,7 +126,7 @@ Two-year diploma program covering offensive and defensive security, forensics, m
 ### Business Administration Finance Diploma
 #### Southern Alberta Institute of Technology
 
-2015 – 2017
+2015 - 2017
 
 Two year diploma where I developed competencies in financial reporting, budgeting, and business operations. Enhances cybersecurity work with a business-level understanding of risk assessment, compliance frameworks, and the financial impact of security decisions.
 
