@@ -306,7 +306,7 @@ Deployed and tested two critical network services - **FTP** (File Transfer Proto
 - Established a secure remote shell session from Kali to Debian
 - Captured the SSH session in Wireshark - demonstrating encrypted traffic vs. the plaintext nature of FTP
   
-![SSH Capture showing Kali connecting to Debian Machine](Assets/Lab5SSH.png)
+![SSH Capture showing Kali connecting to Debian Machine](Assets/Lab6SSH.png)
 
 ### Skills Demonstrated
 - FTP server installation and configuration (VSFTPD)
