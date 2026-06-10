@@ -19,6 +19,7 @@ This section covers the labs I completed during ITSC-200: Secure Networking Fund
 Built and documented a full network topology of a lab environment, identified all assets on the subnet, and performed a comprehensive suite of **Nmap scans** to enumerate hosts, open ports, services, and OS details(None of these machinese are in use anymore and the associated IPs/MACs are no longer relevant).
 
 ### Network Topology
+
 ![Lab 1 Multi-Network topology](Assets/Assignment1Topology.png)
 
 ### Network Asset Inventory
@@ -61,6 +62,7 @@ Built and documented a full network topology of a lab environment, identified al
 Designed and implemented a full secure network environment using **PFSense** as the firewall/router, segmented into LAN and OPT1 subnets. Configured firewall rules, DHCP assignments, gateways, static IPs, and verified connectivity across services using Wireshark.
 
 ### Network Topology
+
 ![PFSense VM Network topology](Assets/Assignment2Topology.png)
 
 ### Network Architecture
@@ -70,6 +72,7 @@ Designed and implemented a full secure network environment using **PFSense** as 
 - DHCP configured and assigned across both LAN and OPT1 interfaces
 
 ### Firewall Rule Configuration
+
 ![Firewall Configuration and Aliase configuration](Assets/Assignment2Rules.png)
 
 ### Services Deployed & Verified
@@ -81,12 +84,16 @@ Designed and implemented a full secure network environment using **PFSense** as 
 ### Wireshark Traffic Analysis
 Each service connection was verified in Wireshark using targeted filters:
 - **Google (internet):** TCP handshake on port 443 (HTTPS), filtered to show only client subnet traffic
+
 ![Wireshark capture of HTTPS TCP handshake to Google on port 443](Assets/Assignment2Wireshark1.png)
 - **Web Server:** TCP handshake on port 80, filtered between client IP range and server IP
+  
 ![Wireshark capture of HTTP TCP handshake to web server on port 80](Assets/Assignment2Wireshark2.png)
 - **SSH:** TCP handshake on port 22, filtered between client and server
+  
 ![Wireshark capture of SSH TCP handshake on port 22](Assets/Assignment2Wireshark3.png)
 - **FTP:** TCP handshake on port 21, filtered between client and server
+  
 ![Wireshark capture of FTP TCP handshake on port 21](Assets/Assignment2Wireshark4.png)
 
 ### Skills Demonstrated
@@ -106,8 +113,10 @@ Configured a virtual machine (VM) across three different network adapter modes -
 
 ### Adjusted Network Adaptar Settings
 - I initially completed this lab within VirtualBox
+  
 ![Location within VirtualBox](Assets/Lab1VBNetwork.png)
 - In later Semesters I decided to learn more systems and pivoted to VMWare Workstation
+  
 ![Location within VMWare](Assets/Lab1VMWNetwork.png)
 
 ### Key Findings
@@ -133,6 +142,7 @@ Configured a virtual machine (VM) across three different network adapter modes -
 Worked through the installation of **Gentoo Linux** from scratch using the official Gentoo Handbook as the primary reference. This exercise was meant to give us a hands on experience with bare-meteal OS configuration, including sharing my personal experince with the class. 
 
 ### Gentoo Installation
+
 ![Gentoo Bear Metal Installion](Assets/Lab2Gentoo.png)
 
 ### Key Learning Objectives
@@ -163,16 +173,19 @@ Analyzed network captures using **Wireshark**, investigating TCP streams, MAC-le
 **Part 1 - TCP Traffic Analysis:**
 - Identified the device sending the most data: MAC address `08:00:27:8d:e5:1c` - transmitted **134 kB** and the highest packet count
 - Used TCP stream following to trace individual connections
+  
 ![TCP Traffic in Wireshark](Assets/Lab3Data.png)
 
 **Part 2 - Cross-Machine Communication:**
 - Observed **mDNS (Multicast DNS)** protocol being used to resolve hostnames to local IP addresses when pinging between machines on the local network
+  
 ![mDNS wireshark search](Assets/Lab3MDNS.png)
 
 **Part 3 - Anomaly Detection:**
 - Identified a hidden message: **"flip-flop"** embedded in the traffic
 - Detected suspicious pattern: data arriving from **unique IP addresses** all targeting `192.168.1.75` with **sequential port numbers ranging from 1484-1611** - characteristic of a port scan or coordinated probe
 - Identified `192.168.1.75` as the **firewall/gateway** - a high-value target
+  
 ![Secret word located within a packet](Assets/Lab3FlipFlop.png)
 
 ### Skills Demonstrated
@@ -195,6 +208,7 @@ Both scans shared these indicators of a port scan in progress:
 - Large variety of **destination ports** hit with SYN requests
 - **SYN-ACK** responses for open ports and **RST** responses for closed ports
 - Burst of SYN packets over a very short time window
+  
 ![Wireshark Capture Example](Assets/Lab4Syn.png)
 
 **Timing difference observed:**
@@ -231,27 +245,35 @@ Installed and configured **PFSense** from scratch in a virtualized environment, 
 **Part 1 - PFSense Installation:**
 - Installed PFSense and verified the environment was functional
 - Confirmed Kali machine had internet access on the internal network
+  
 ![PFSense Installed and on Main Screen](Assets/Lab5PF.png)
 
 **Part 2 - GUI Configuration:**
 - Accessed the PFSense web GUI and completed initial setup with default settings
+  
 ![Accessed GUI for Configuration](Assets/Lab5Gui.png)
 
 **Part 3 - Multi-Machine Communication:**
 - Added a **Debian Metasploitable** machine to the network
 - Established communication between machines using **Netcat** (`nc -l -p`) to test raw TCP connectivity
+  
 ![Communicated using nc commands](Assets/Lab5Com.png)
 
 **Part 4 - Network Segmentation:**
 - Added a second internal network on the **OPT1** interface
+  
 ![Segmented a second network in PFSense](Assets/Lab5Seg.png)
 - Enabled OPT1 in the GUI and assigned an IP range
+  
 ![Enabled and set up OPT1 in GUI](Assets/Lab5Opt1.png)
 - Configured **DHCP** on OPT1 with a defined address pool
+  
 ![Defined address pool for OPT1](Assets/Lab5Range.png)
 - Set up **DNS** for external access
+  
 ![Set DNS for external Access on OPT1](Assets/Lab5DNS.png)
 - Verified IP renewal and confirmed cross-network communication via **Wireshark**
+  
 ![Confirmed from both machines that they can connect across networks](Assets/Lab5Conf.png)
 
 ### Skills Demonstrated
@@ -276,12 +298,14 @@ Deployed and tested two critical network services - **FTP** (File Transfer Proto
 - Installed and configured the **VSFTPD** FTP server on the Debian machine
 - Connected from the Kali machine and browsed the remote directory
 - Demonstrated unencrypted file transfer capability
+  
 ![VSFTP Server set up and used to check directory of Debian machine from Kali machine on the same network](Assets/Lab6FTP.png)
 
 **Part 2 - SSH:**
 - Installed and configured **SSH** on the Debian machine
 - Established a secure remote shell session from Kali to Debian
 - Captured the SSH session in Wireshark - demonstrating encrypted traffic vs. the plaintext nature of FTP
+  
 ![SSH Capture showing Kali connecting to Debian Machine](Assets/Lab5SSH.png)
 
 ### Skills Demonstrated
@@ -303,18 +327,23 @@ Deployed an **Apache2 web server**, performed directory enumeration using **dirb
 
 **Part 1 - Apache2 Web Server:**
 - Installed and confirmed Apache2 was running
+  
 ![Apache2 installed and running](Assets/Lab7Apache.png)
 - Accessed the web page from an external network via Kali
 - Modified the server's `index` file and created an `admin` folder within the HTML directory
 - Ran **dirb** to enumerate the web server's directory structure and discover exposed paths
+  
 ![Ran dirb to view directory of the webserver](Assets/Lab7Dirb.png)
 
 **Part 2 - OWASP ZAP Vulnerability Scanning:**
 - Used **ZAP proxy** to inspect and interact with the web server, successfully reading the contents of the admin folder
+  
 ![Zap Proxy used to locate the contents of the admin folder](Assets/Lab7Zap.png)
 - Modified the site header to display "has been hacked" - demonstrating client-side HTML manipulation via proxy interception
+  
 ![Header Adjusted to show has been hacked](Assets/Lab7Header.png)
 - Changed a `.png` filename in the site for Wireshark search testing
+  
 ![Changed file name to .png in the site](Assets/Lab7png.png)
 
 **Key Observation - Wireshark:**
@@ -322,7 +351,9 @@ Deployed an **Apache2 web server**, performed directory enumeration using **dirb
 
 **Part 3 - Firewall Rules:**
 - Reviewed and configured firewall rules for both **LAN** and **OPT1** interfaces to control access to the web server
+  
 ![LAN Firewall rules](Assets/Lab7LAN.png)
+
 ![OPT1 Firewall rules](Assets/Lab7OPT.png)
 
 ### Skills Demonstrated
