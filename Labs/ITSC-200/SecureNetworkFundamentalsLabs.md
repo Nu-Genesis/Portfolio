@@ -18,6 +18,9 @@ This section covers the labs I completed during ITSC-200: Secure Networking Fund
 ### What I Did
 Built and documented a full network topology of a lab environment, identified all assets on the subnet, and performed a comprehensive suite of **Nmap scans** to enumerate hosts, open ports, services, and OS details(None of these machinese are in use anymore and the associated IPs/MACs are no longer relevant).
 
+### Network Topology
+![Lab 1 Multi-Network topology](Assets/Assignment1Topology.png)
+
 ### Network Asset Inventory
 
 | Asset | IP | MAC | Hostname | OS | Open Port | Service |
