@@ -99,7 +99,7 @@ Two-year diploma program covering offensive and defensive security, forensics, m
 
 - Security Practice and the Canadian Legal System (LAWG 200)
 
-- Application Security (ITSC 302)
+- Web Application Security (ITSC 302)
 
 ##### Year 2
 
