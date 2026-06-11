@@ -1,7 +1,7 @@
 ## Brandon Stewart
 Calgary, Alberta, Canada
 Cybersecurity Graduate | DFIR Enthusiast | IT Support Specialist
-## LinkedIn: https://ca.linkedin.com/in/brandon-stewart-389370133
+## LinkedIn: https://www.linkedin.com/in/bstewart000/
 ## Email: bchanstew@gmail.com
 ## Professional Summary
 
