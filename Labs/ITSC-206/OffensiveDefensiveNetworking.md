@@ -397,9 +397,9 @@ Cloned the PFSense lab environment and executed a live man-in-the-middle ARP poi
 
 7. Followed TCP stream in Wireshark - captured HTTP traffic from the Victim's browser session passing through the Attacker
 
-![Wireshark filtered to ARP](Lab3WireARP.png)
+![Wireshark filtered to ARP](Assets/Lab3WireARP.png)
 
-![Followed the TCP stream in Wireshark](Lab3TCP.png)
+![Followed the TCP stream in Wireshark](Assets/Lab3TCP.png)
 
 8. Stopped attack: all ARP tables returned to their correct MAC/IP mappings
 
