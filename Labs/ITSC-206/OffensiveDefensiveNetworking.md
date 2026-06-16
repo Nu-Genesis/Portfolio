@@ -354,7 +354,7 @@ Configured Dynamic ARP Inspection on Main Building to prevent ARP/MAC spoofing a
 - Enabled DAI on VLANs 10, 20, and 30
 - Configured the trunk port (gi0/2) connecting to the second switch as a trusted interface, so ARP packets traversing it bypass inspection
 
-![Enabled ARP inspection per VLAN](Assets/Lab3ArpInpsect.png)
+![Enabled ARP inspection per VLAN](Assets/Lab3ArpInspect.png)
 
 ### Port Security and DTP Hardening
 
